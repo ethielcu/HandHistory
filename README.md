@@ -60,8 +60,7 @@ It will not convert hand histories as you play.
     * you can double click on this cmd (or bat) file to run the converter, you can also make a shortcut by right clicking on the cmd (or bat) file and then clicking ```"Send to"``` --> ```"Desktop (create shortcut)"``` (the shortcut can be renamed)
 
 ## Mac
-* This software has not been tested on Mac
-* The installation steps for Mac should be similar to the Windows installation steps
+
 * Python might already be installed on your system, check by doing the following:
   * open a Terminal window
   * type ```python --version```
@@ -84,5 +83,3 @@ It will not convert hand histories as you play.
    * press Enter key
    * if a version is shown then it worked
    * **You might need to sign out of your Windows user account and sign back in or restart the computer after doing this for it to work**
-
-
